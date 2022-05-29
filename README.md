@@ -1,5 +1,5 @@
 # Competitive Coding Logs
-Hey guys! Welcome to my competitive coding journy. Starting it mid-way of my preperation, let's see where the problem solving world takes me.
+Hey guys! Welcome to my competitive coding journy. Starting it mid-way of my preperation, let's see how far can I travel on this path.
 
 ## Other profiles
 Clist.by : https://clist.by/coder/VishalHaswani/ (Only contest performaces can be found here)
